@@ -1,3 +1,10 @@
+//Write a program that simulates an access control system. A person is allowed access if they have both a valid ID and a valid access card, or 
+//if they are an admin.
+//Requirements:
+//• Use logical operators &&, ||, and !.
+
+
+
 package module1;
 import java.util.Scanner;
 public class Assignment3 {
